@@ -1,4 +1,4 @@
-This project was built as a part of Free Code Camp's Intermediate Front-End Development curriculum.
+This project was built as a part of Free Code Camp's Front-End Development curriculum.
 
 Objective:
 Build a CodePen.io app that successfully reverse-engineers this: http://codepen.io/GeoffStorbeck/full/GJKRxZ.
