@@ -1,9 +1,7 @@
+<h1>Twitch TV</h1>
 This project was built as a part of Free Code Camp's Front-End Development curriculum.
 
-Objective:
-Build a CodePen.io app that successfully reverse-engineers this: http://codepen.io/GeoffStorbeck/full/GJKRxZ.
-
-User stories:
+<h2>User stories</h2>
 
 1. As a user, I can see whether Free Code Camp is currently streaming on Twitch.tv.
 2. As a user, I can click the status output and be sent directly to the Free Code Camp's Twitch.tv channel.
